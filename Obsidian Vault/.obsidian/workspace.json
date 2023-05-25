@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e017e983e79c2a5a",
+        "id": "92ef8ec3c35fec43",
         "type": "tabs",
         "children": [
           {
-            "id": "aed913f40331e7a6",
+            "id": "b424e4f589916999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo/2023-05-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0f62180a2e7238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/Learn MERN like a pro/MERN Stack.md",
+                "file": "BugFix/2023-05-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Learn MERN like a pro/MERN Stack.md",
+                "file": "BugFix/2023-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Learn MERN like a pro/MERN Stack.md",
+                "file": "BugFix/2023-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Learn MERN like a pro/MERN Stack.md"
+                "file": "BugFix/2023-05-25.md"
               }
             }
           }
@@ -159,18 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0f62180a2e7238",
+  "active": "5e17dec9097f01f7",
   "lastOpenFiles": [
     "BugFix/2023-05-24.md",
-    "Note/What I learned from Headless",
-    "ToDo/2023-05-11.md",
-    "BugFix",
+    "BugFix/2023-05-25.md",
     "ToDo/2023-05-10.md",
+    "ToDo/2023-05-11.md",
+    "Note/Learn MERN like a pro/MERN Stack.md",
+    "Note/What I learned from Headless",
+    "BugFix",
     "ToDo/2023-05-9.md",
     "ToDo/2023-05-08.md",
     "Untitled.canvas",
     "2023-05-08.md",
-    "Note/Learn MERN like a pro/MERN Stack.md",
     "Note/Learn MERN like a pro",
     "Note",
     "ToDo"
