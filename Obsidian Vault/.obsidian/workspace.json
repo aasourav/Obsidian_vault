@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BugFix/2023-05-25.md",
+                "file": "Note/What I learned from Headless/2023-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BugFix/2023-05-25.md",
+                "file": "Note/What I learned from Headless/2023-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BugFix/2023-05-25.md",
+                "file": "Note/What I learned from Headless/2023-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BugFix/2023-05-25.md"
+                "file": "Note/What I learned from Headless/2023-06-05.md"
               }
             }
           }
@@ -148,16 +148,26 @@
   },
   "active": "5e17dec9097f01f7",
   "lastOpenFiles": [
-    "BugFix/2023-05-24.md",
-    "BugFix/2023-05-25.md",
-    "ToDo/2023-05-10.md",
+    "New project issues..md",
+    "Note/What I learned from Headless/2023-06-05.md",
+    "Note/What I learned from Headless/Untitled.md",
     "ToDo/2023-05-11.md",
+    "BugFix/2023-05-30.md",
+    "Note/What I learned from Headless/2023-05-31.md",
+    "Note/shell programming/Shell Programming.md",
     "Note/Learn MERN like a pro/MERN Stack.md",
+    "BugFix/2023-05-29.md",
+    "Untitled.canvas",
+    "Note/learn linux/Linux.md",
+    "Note/learn linux",
+    "BugFix/2023-05-25.md",
+    "Note/shell programming",
+    "BugFix/2023-05-24.md",
+    "ToDo/2023-05-10.md",
     "Note/What I learned from Headless",
     "BugFix",
     "ToDo/2023-05-9.md",
     "ToDo/2023-05-08.md",
-    "Untitled.canvas",
     "2023-05-08.md",
     "Note/Learn MERN like a pro",
     "Note",
