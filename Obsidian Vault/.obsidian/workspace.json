@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Devops/Road map for devOps.md",
+                "file": "Note/Devops/Day 1 (2 hr).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Road map for devOps.md",
+                "file": "Note/Devops/Day 1 (2 hr).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Road map for devOps.md",
+                "file": "Note/Devops/Day 1 (2 hr).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Devops/Road map for devOps.md"
+                "file": "Note/Devops/Day 1 (2 hr).md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b755cec8d3085b",
+  "active": "5e17dec9097f01f7",
   "lastOpenFiles": [
-    "BugFix/2023-06-15.md",
     "Note/Devops/Road map for devOps.md",
+    "Note/Devops/Day 1 (2 hr).md",
+    "BugFix/2023-06-15.md",
     "Note/What I learned from Headless/Table scroll.md",
     "Note/Devops",
     "Note/Learn MERN like a pro/MERN Stack.md",
