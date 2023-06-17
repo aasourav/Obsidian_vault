@@ -64,4 +64,9 @@ ex: `ping -c 1 google.com`
 ## Linux terminal running without trace
 
 when I run an command just before command give white space . then it will not save in the history.
+but in centOS it will not track.
+		`echo $HISTCONTROL` => by using histcontrol `HISTCONTROL=ignorewhitespace`
+ignore duplicate command = `HISTCONTOL=ignoredups` 
+if you wanna ignore both just type `ignoreboth`
+
 

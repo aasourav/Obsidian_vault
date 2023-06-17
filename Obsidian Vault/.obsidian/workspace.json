@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71a4cb7937c389d3",
+        "id": "2fd0e32ca3109fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "86b755cec8d3085b",
+            "id": "9359ee8f4ef79dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Devops/Day 1 (2 hr).md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Day 1 (2 hr).md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Day 1 (2 hr).md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Devops/Day 1 (2 hr).md"
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b755cec8d3085b",
+  "active": "9359ee8f4ef79dd9",
   "lastOpenFiles": [
+    "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)",
     "Note/Devops/Road map for devOps.md",
-    "Note/Devops/Day 1 (2 hr).md",
+    "Note/Devops/Learn Linux(17 June - 30 June)",
     "BugFix/2023-06-15.md",
     "Note/What I learned from Headless/Table scroll.md",
     "Note/Devops",
