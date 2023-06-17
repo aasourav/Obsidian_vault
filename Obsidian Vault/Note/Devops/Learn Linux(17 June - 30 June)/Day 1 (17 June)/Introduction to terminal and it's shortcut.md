@@ -52,7 +52,7 @@ ex: `ping -c 1 google.com`
 `tab_key` for command auto completion
 `HISTTIMEFORMAT="%d/%m/%y %T"`  now we can show the time alongside the history.
 
-`echo "this is text" >> file_name` this is for if you want to write text in the specific file.
+`echo "this is text" >> file_name` this is for if you want to write text in the specific file. single > is override the content. >> is for concat the content
 
 `sudo groupadd grp_name` create a group in system
 `sudo useradd user_name` create a user
@@ -69,4 +69,8 @@ but in centOS it will not track.
 ignore duplicate command = `HISTCONTOL=ignoredups` 
 if you wanna ignore both just type `ignoreboth`
 
+`tree` is for show the directory tree. initially it's not installed. you have to install it first.
 
+![[Pasted image 20230617232312.png]]
+
+if we
