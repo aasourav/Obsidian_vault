@@ -1,0 +1,16 @@
+- [?] Version control (git)
+- [ ]  Linux (Deadline -> June 17 - June 30)
+	- [ ] Learn Linux
+	- [ ] Shell scripting
+- [ ]  Coding (python while learning AWS  (most used in devOps))
+- [ ]  Agile development , scrum(Agile is subset of scrum ) (July 1 - July 15)
+- [ ]  Operations (July 16 - August 31)
+	- [ ]  Networking
+	- [ ]  AWS
+- [ ] Docker (September 1 - September 10)
+- [ ] Kubernetes (September 11 - September 30)
+- [ ] Infrastructure as Code (Learn Terraform) (Oct 1 - Oct 10)
+- [ ] Learn Ansible (Oct 11 - Oct 20)
+- [ ] Learn Jenkins (Oct 21 - Oct 31 )
+- [ ] learn monitoring tool  (Nov 1 - Nov 31)
+	- [ ] (google : ELK, tool: Splunk). it's a big part of devOps.

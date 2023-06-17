@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92ef8ec3c35fec43",
+        "id": "71a4cb7937c389d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b424e4f589916999",
+            "id": "86b755cec8d3085b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/What I learned from Headless/2023-06-05.md",
+                "file": "Note/Devops/Road map for devOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/What I learned from Headless/2023-06-05.md",
+                "file": "Note/Devops/Road map for devOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/What I learned from Headless/2023-06-05.md",
+                "file": "Note/Devops/Road map for devOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/What I learned from Headless/2023-06-05.md"
+                "file": "Note/Devops/Road map for devOps.md"
               }
             }
           }
@@ -146,17 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e17dec9097f01f7",
+  "active": "86b755cec8d3085b",
   "lastOpenFiles": [
-    "New project issues..md",
+    "BugFix/2023-06-15.md",
+    "Note/Devops/Road map for devOps.md",
+    "Note/What I learned from Headless/Table scroll.md",
+    "Note/Devops",
+    "Note/Learn MERN like a pro/MERN Stack.md",
+    "BugFix/2023-05-29.md",
+    "BugFix/2023-06-13.md",
     "Note/What I learned from Headless/2023-06-05.md",
+    "New project issues..md",
     "Note/What I learned from Headless/Untitled.md",
     "ToDo/2023-05-11.md",
     "BugFix/2023-05-30.md",
     "Note/What I learned from Headless/2023-05-31.md",
     "Note/shell programming/Shell Programming.md",
-    "Note/Learn MERN like a pro/MERN Stack.md",
-    "BugFix/2023-05-29.md",
     "Untitled.canvas",
     "Note/learn linux/Linux.md",
     "Note/learn linux",
