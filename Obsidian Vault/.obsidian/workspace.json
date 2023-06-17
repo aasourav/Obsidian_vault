@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "184301c7b54a7187",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e17dec9097f01f7",
+  "active": "86b755cec8d3085b",
   "lastOpenFiles": [
     "Note/Devops/Road map for devOps.md",
     "Note/Devops/Day 1 (2 hr).md",
