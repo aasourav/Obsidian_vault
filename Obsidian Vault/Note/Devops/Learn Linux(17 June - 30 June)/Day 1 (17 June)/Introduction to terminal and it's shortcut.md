@@ -96,4 +96,6 @@ first it divide on basis of ":" then `-f1` means filed number. if we want to fir
 
 `tee who> user.txt` will redirect and print screen both.
 
-[/media/aasourav/Local Folder/AcademyZeroToMastery - DevOps Bootcamp Learn Linux & Become a Linux Sysadmin/5.The Linux File System/Comparing Files (cmp, diff, sha256)]
+`cmp`  compare two files
+`cmp a.txt b.txt`
+ 
