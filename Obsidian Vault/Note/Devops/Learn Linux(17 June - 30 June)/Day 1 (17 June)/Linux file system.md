@@ -9,4 +9,5 @@ relative path: *Relative path is defined as the path related to the present work
 `~/Desktop`  " ~  " means  home directory.
 `.` means current directory. `..` means parent directory of current directory
 relative path is start from  ex: `./home` 
- 
+
+### `etc` directory contains the configuration of entire system.

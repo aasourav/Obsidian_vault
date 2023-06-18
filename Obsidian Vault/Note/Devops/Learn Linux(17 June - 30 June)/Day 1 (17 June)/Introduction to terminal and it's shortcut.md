@@ -98,4 +98,22 @@ first it divide on basis of ":" then `-f1` means filed number. if we want to fir
 
 `cmp`  compare two files
 `cmp a.txt b.txt`
- 
+`which ls` means ls command where it's located
+`sha256sum /user/bin/ls ./ls`  identical or not if identical will not show the differ.
+`diff a b` it will show the what is diff  in between two files.
+![[Pasted image 20230618213634.png]]
+
+learn `patch` command
+
+### compress or archive file
+archiviing = 10 file  with 100kb . result single file is 1000k
+compress = 10 files wiht 100k . will compress the file based on file. txt file is higher compression.
+`tar` `-czvf etc.tar.gz /etc` 
+this archive files is names as tarballs
+
+`bzip` compress higher than gzip
+
+`gzip` `gunzip` 
+`bzip2` `bunzip2`
+
+`cp` , `cat` 
