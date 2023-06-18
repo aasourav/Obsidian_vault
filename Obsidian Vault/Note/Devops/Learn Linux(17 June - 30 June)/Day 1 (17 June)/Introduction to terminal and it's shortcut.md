@@ -111,9 +111,26 @@ compress = 10 files wiht 100k . will compress the file based on file. txt file i
 `tar` `-czvf etc.tar.gz /etc` 
 this archive files is names as tarballs
 
-`bzip` compress higher than gzip
+`bzip` compress higher than `gzip`
 
 `gzip` `gunzip` 
 `bzip2` `bunzip2`
 
-`cp` , `cat` 
+`cp` , `cat` , `touch` , `mkdir` 
+
+`drwxr-xr-x` => `d` is directory
+`lwsr-xr-x` => `l` is a symbolic link
+`bwsr-xr-x` => `b` block device. probably partition of a file
+`cbwsr-xr-x` => `c` char device 
+`swsr-xr-x` => `s` for socket
+`pwsr-xr-x`  => `p` pipe file
+
+`ls -F` file with types 
+`file filename_or_file_path`
+`file /run/*` will show to with file type.
+
+### `find and exect`
+`find /etc -type f -mtime 0`  mtime 0 means today 
+
+`sudo /etc/ -mtime -7 -type f -exec cp {} /root/backup \;
+`
