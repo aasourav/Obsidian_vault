@@ -71,6 +71,28 @@ if you wanna ignore both just type `ignoreboth`
 
 `tree` is for show the directory tree. initially it's not installed. you have to install it first.
 
+### command redirection and piping
+
 ![[Pasted image 20230617232312.png]]
 
-if we
+if we want to redirect the output : 
+`echo "abc" >> abc.txt`  => stdout `1` before >> is optional
+if we want to redirected the error 
+`echo "abc" 2>> err.txt` 
+remember > is for existing file.  >> is for if file does not exist then it will create a file and then write the content
+if we want to make is same line.
+`echo "abc" > success.txt 2> error.txt`
+if we wanna both then => `echo "abc" > output.txtt 2>&1`
+
+`ifconfig | grep ehter` => print the specific
+`cmnd   pipe command string` 
+
+![[Pasted image 20230617234027.png]]
+
+`cut` (have to google it)
+`cut -d":" -f1 etc/passwd`  
+first it divide on basis of ":" then `-f1` means filed number. if we want to first filed then it will show the first divided content
+
+`tee who> user.txt` will redirect and print screen both.
+
+[/media/aasourav/Local Folder/AcademyZeroToMastery - DevOps Bootcamp Learn Linux & Become a Linux Sysadmin/5.The Linux File System/Comparing Files (cmp, diff, sha256)]
