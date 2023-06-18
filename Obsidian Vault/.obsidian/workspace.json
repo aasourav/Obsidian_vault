@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md"
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9359ee8f4ef79dd9",
   "lastOpenFiles": [
+    "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Introduction to terminal and it's shortcut.md",
     "Pasted image 20230617234027.png",
-    "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)/Linux file system.md",
     "Pasted image 20230617232312.png",
     "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)",
     "Note/Devops/Road map for devOps.md",

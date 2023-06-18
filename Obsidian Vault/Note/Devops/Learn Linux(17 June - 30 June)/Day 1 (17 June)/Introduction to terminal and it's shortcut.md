@@ -30,14 +30,14 @@ ex: `ping -c 1 google.com`
 
 ## keyboard shortcut
 
-`ctrl + L`  => clear the terminal
-`ctrl + d` => exit the terminal
-`ctrl + A` => go to the beginning of the line
-`up arrow key` prev command
-`ctrl + e` => move the cursor to the end
-`ctrl + u` => clear the line.
-`ctrl + c` => interrupt the command that is running process
-`ctrl + g` => pause the running process. we can resume it later using `bg %1`
+`ctrl + L` ==> clear the terminal
+`ctrl + d` ==> exit the terminal
+`ctrl + A` ==> go to the beginning of the line
+.au.  `up arrow key` prev command
+`ctrl + e` ==> move the cursor to the end
+`ctrl + u` ==> clear the line.
+`ctrl + c` ==> interrupt the command that is running process
+`ctrl + g` ==> pause the running process. we can resume it later using `bg %1`
 
 ## bash command history
 
