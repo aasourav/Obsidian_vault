@@ -1,4 +1,5 @@
-## (Sat June 17)
+
+### `man`
 
 if we want to need help on **Linux command** 
 type
