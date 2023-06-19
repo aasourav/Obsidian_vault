@@ -129,8 +129,13 @@ this archive files is names as tarballs
 `file filename_or_file_path`
 `file /run/*` will show to with file type.
 
-### `find and exect`
+### `find and exec`
 `find /etc -type f -mtime 0`  mtime 0 means today 
 
-`sudo /etc/ -mtime -7 -type f -exec cp {} /root/backup \;
-`
+`sudo find /etc/ -mtime -7 -type f -exec cp {} /root/backup \;
+{} means find result will be there.
+
+
+## `locate and find
+learn `mlocate`
+ 
