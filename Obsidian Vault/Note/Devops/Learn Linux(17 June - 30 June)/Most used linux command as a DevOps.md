@@ -1,0 +1,102 @@
+- `ls`: List directory contents.
+- `cd`: Change directory.
+- `pwd`: Print working directory.
+- `mkdir`: Create a directory.
+- `rmdir`: Remove a directory.
+- `rm`: Remove files and directories.
+- `cp`: Copy files and directories.
+- `mv`: Move or rename files and directories.
+- `touch`: Create an empty file or update file timestamps.
+- `cat`: Concatenate and display file contents.
+- `less`: View file contents with pagination.
+- `head`: Output the first part of files.
+- `tail`: Output the last part of files.
+- `grep`: Search for patterns in files.
+- `find`: Search for files and directories.
+- `tar`: Archive files using tar.
+- `gzip`: Compress files using gzip.
+- `gunzip`: Decompress files compressed with gzip.
+- `zip`: Create zip archives.
+- `unzip`: Extract files from zip archives.
+- `ssh`: Secure shell remote login.
+- `scp`: Securely copy files between hosts.
+- `ping`: Test network connectivity to a host.
+- `ifconfig`: Configure network interfaces.
+- `ip`: Show or manipulate routing, devices, policy routing, and tunnels.
+- `netstat`: Network statistics and connections.
+- `ss`: Show socket statistics.
+- `dig`: DNS lookup utility.
+- `nslookup`: Query Internet domain name servers.
+- `host`: DNS lookup utility.
+- `route`: View or manipulate the IP routing table.
+- `systemctl`: Control the systemd system and service manager.
+- `service`: Control system services (init.d scripts).
+- `ps`: Report information about running processes.
+- `top`: Monitor system processes and resource usage.
+- `htop`: Interactive process viewer.
+- `kill`: Terminate processes by PID or name.
+- `pkill`: Send signal to processes based on name or other attributes.
+- `killall`: Kill processes by name.
+- `chmod`: Change file permissions.
+- `chown`: Change file ownership.
+- `chgrp`: Change group ownership of files.
+- `du`: Estimate file and directory disk usage.
+- `df`: Report file system disk space usage.
+- `uname`: Print system information.
+- `whoami`: Print the current user name.
+- `id`: Print user and group information.
+- `su`: Substitute user identity.
+- `sudo`: Execute a command as another user.
+- `visudo`: Edit the sudoers file safely.
+- `crontab`: Schedule commands to run periodically.
+- `date`: Print or set the system date and time.
+- `time`: Measure the execution time of a command.
+- `history`: Display command history.
+- `man`: Display the manual pages for commands.
+- `info`: Display detailed information about commands.
+- `apropos`: Search the manual page names and descriptions.
+- `alias`: Create an alias for a command.
+- `export`: Set environment variables.
+- `unset`: Unset environment variables.
+- `source`: Execute commands from a file in the current shell.
+- `echo`: Print text to the terminal.
+- `tee`: Read from standard input and write to standard output and files.
+- `wc`: Count lines, words, and characters in files.
+- `sort`: Sort lines of text files.
+- `uniq`: Report or omit repeated lines in a file.
+- `sed`: Stream editor for filtering and transforming text.
+- `awk`: Pattern scanning and text processing language.
+- `cut`: Remove sections from lines of files.
+- `paste`: Merge lines of files.
+- `join`: Join lines of two files on a
+- `split`: Split a file into pieces.
+- `diff`: Compare files line by line.
+- `patch`: Apply a diff file to an original file.
+- `xargs`: Execute commands from standard input.
+- `watch`: Execute a command repeatedly and display the output.
+- `script`: Record a shell session.
+- `bg`: Put a process in the background.
+- `fg`: Bring a process to the foreground.
+- `jobs`: Display status of jobs in the current session.
+- `disown`: Remove jobs from the current session.
+- `screen`: Terminal multiplexer.
+- `tmux`: Terminal multiplexer.
+- `mount`: Mount a file system.
+- `umount`: Unmount a file system.
+- `fdisk`: Manipulate disk partition table.
+- `mkfs`: Create a file system on a device.
+- `fsck`: Check and repair file systems.
+- `lspci`: List PCI devices.
+- `lsusb`: List USB devices.
+- `lshw`: List hardware information.
+- `hostname`: Print or set system hostname.
+- `uptime`: Show how long the system has been running.
+- `free`: Display memory usage.
+- `top`: Display system processes and resource usage.
+- `iostat`: Report CPU, I/O, and device statistics.
+- `sar`: Collect, report, or save system activity information.
+- `nmon`: Monitor system performance.
+- `dmesg`: Print or control the kernel ring buffer.
+- `ethtool`: Query or control network device settings.
+
+Please note that this is an extensive list and the usage of commands may vary depending on specific requirements and environments.
