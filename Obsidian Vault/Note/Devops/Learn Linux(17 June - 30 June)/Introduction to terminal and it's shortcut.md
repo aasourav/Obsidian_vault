@@ -138,4 +138,5 @@ this archive files is names as tarballs
 
 ## `locate and find
 learn `mlocate`
- 
+`locate` => is used for search for files and directories. but it dosen't have real time.
+`find` => is is similar to locate also more powerful it search recursively
