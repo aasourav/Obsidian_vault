@@ -17,33 +17,30 @@
     - [ ] Routing protocols (e.g., BGP, OSPF)
     - [ ] Network Address Translation (NAT)
 3. **Network Security**:
-    - Firewall configuration and management
-    - VPN (Virtual Private Network) technologies
-    - Intrusion Detection and Prevention Systems (IDS/IPS)
-    - Secure Socket Layer (SSL) and Transport Layer Security (TLS)
-    - Security best practices (e.g., access control, encryption)
+    - [ ] Firewall configuration and management
+    - [ ] VPN (Virtual Private Network) technologies
+    - [ ] Intrusion Detection and Prevention Systems (IDS/IPS)
+    - [ ] Secure Socket Layer (SSL) and Transport Layer Security (TLS)
+    - [ ] Security best practices (e.g., access control, encryption)
 4. **Cloud Networking**:
-    - Virtual Private Cloud (VPC) in AWS, Virtual Network (VNet) in Azure, and Virtual Network (VPC) in Google Cloud
-    - Network Load Balancers and Application Load Balancers
-    - Cloud DNS services
-    - Security Groups, Network Access Control Lists (NACLs), and Firewall Rules
-    - Direct Connect (AWS), ExpressRoute (Azure), and Dedicated Interconnect (Google Cloud)
+    - [ ] Virtual Private Cloud (VPC) in AWS, Virtual Network (VNet) in Azure, and Virtual Network (VPC) in Google Cloud
+    - [ ] Network Load Balancers and Application Load Balancers
+    - [ ] Cloud DNS services
+    - [ ] Security Groups, Network Access Control Lists (NACLs), and Firewall Rules
+    - [ ] Direct Connect (AWS), ExpressRoute (Azure), and Dedicated Interconnect (Google Cloud)
 5. **Container Networking**:
-    
-    - Docker networking concepts (bridge networks, overlay networks, host networking)
-    - Container orchestration platforms (e.g., Kubernetes, Docker Swarm)
-    - Service discovery and load balancing in containerized environments
+    - [ ] Docker networking concepts (bridge networks, overlay networks, host networking)
+    - [ ] Container orchestration platforms (e.g., Kubernetes, Docker Swarm)
+    - [ ] Service discovery and load balancing in containerized environments
 6. **Monitoring and Troubleshooting**:
-    
-    - Network monitoring tools (e.g., Ping, Traceroute, Wireshark)
-    - Network performance monitoring and troubleshooting techniques
-    - Log analysis and monitoring for network events
-    - Incident response and network outage resolution
+    - [ ] Network monitoring tools (e.g., Ping, Traceroute, Wireshark)
+    - [ ] Network performance monitoring and troubleshooting techniques
+    - [ ] Log analysis and monitoring for network events
+    - [ ] Incident response and network outage resolution
 7. **Automation and Infrastructure as Code**:
-    
-    - Network automation frameworks (e.g., Ansible, Puppet, Chef)
-    - Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)
-    - Network provisioning and configuration management
+    - [ ] Network automation frameworks (e.g., Ansible, Puppet, Chef)
+    - [ ] Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)
+    - [ ] Network provisioning and configuration management
 - [ ]  Coding (python while learning AWS  (most used in devOps))
 - [ ]  Agile development , scrum(Agile is subset of scrum ) (July 1 - July 15)
 - [ ]  Operations (July 16 - August 31)
