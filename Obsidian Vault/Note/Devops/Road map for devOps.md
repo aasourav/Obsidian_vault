@@ -8,36 +8,36 @@
     - [ ] Subnetting and CIDR notation
     - [ ] DNS (Domain Name System)
     - [ ] HTTP and HTTPS protocols
-    - [ ] Firewalls and network security fundamentals
-2. **Network Infrastructure**:
+	    - [ ] Firewalls and network security fundamentals
+1. **Network Infrastructure**:
     - [ ] Local Area Networks (LAN) and Wide Area Networks (WAN)
     - [ ] Network topologies (e.g., star, bus, mesh, ring)
     - [ ] Network devices (routers, switches, load balancers)
     - [ ] VLANs (Virtual LANs) and VLAN tagging
     - [ ] Routing protocols (e.g., BGP, OSPF)
     - [ ] Network Address Translation (NAT)
-3. **Network Security**:
+2. **Network Security**:
     - [ ] Firewall configuration and management
     - [ ] VPN (Virtual Private Network) technologies
     - [ ] Intrusion Detection and Prevention Systems (IDS/IPS)
     - [ ] Secure Socket Layer (SSL) and Transport Layer Security (TLS)
     - [ ] Security best practices (e.g., access control, encryption)
-4. **Cloud Networking**:
+3. **Cloud Networking**:
     - [ ] Virtual Private Cloud (VPC) in AWS, Virtual Network (VNet) in Azure, and Virtual Network (VPC) in Google Cloud
     - [ ] Network Load Balancers and Application Load Balancers
     - [ ] Cloud DNS services
     - [ ] Security Groups, Network Access Control Lists (NACLs), and Firewall Rules
     - [ ] Direct Connect (AWS), ExpressRoute (Azure), and Dedicated Interconnect (Google Cloud)
-5. **Container Networking**:
+4. **Container Networking**:
     - [ ] Docker networking concepts (bridge networks, overlay networks, host networking)
     - [ ] Container orchestration platforms (e.g., Kubernetes, Docker Swarm)
     - [ ] Service discovery and load balancing in containerized environments
-6. **Monitoring and Troubleshooting**:
+5. **Monitoring and Troubleshooting**:
     - [ ] Network monitoring tools (e.g., Ping, Traceroute, Wireshark)
     - [ ] Network performance monitoring and troubleshooting techniques
     - [ ] Log analysis and monitoring for network events
     - [ ] Incident response and network outage resolution
-7. **Automation and Infrastructure as Code**:
+6. **Automation and Infrastructure as Code**:
     - [ ] Network automation frameworks (e.g., Ansible, Puppet, Chef)
     - [ ] Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)
     - [ ] Network provisioning and configuration management
