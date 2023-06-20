@@ -140,3 +140,11 @@ this archive files is names as tarballs
 learn `mlocate`
 `locate` => is used for search for files and directories. but it dosen't have real time.
 `find` => is is similar to locate also more powerful it search recursively
+
+### `more / less`
+if the output exceeds the terminal then we may be use more / less command
+ex. `less abc.txt`
+`head` `tail`
+`wc` => line count
+`shred` interesting
+`stat`
