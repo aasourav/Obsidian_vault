@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md"
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9359ee8f4ef79dd9",
+  "active": "5e17dec9097f01f7",
   "lastOpenFiles": [
-    "Note/Devops/Learn Linux(17 June - 30 June)/Resources Links.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
-    "Note/Devops/Learn Linux(17 June - 30 June)/Untitled",
+    "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Resources Links.md",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Untitled",
     "Note/Devops/Learn Linux(17 June - 30 June)/Linux file system.md",
     "Note/Devops/Road map for devOps.md",
     "Pasted image 20230618213634.png",

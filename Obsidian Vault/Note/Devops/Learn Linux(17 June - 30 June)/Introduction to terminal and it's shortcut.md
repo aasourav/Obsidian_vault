@@ -148,3 +148,6 @@ ex. `less abc.txt`
 `wc` => line count
 `shred` interesting
 `stat`
+if I want to convert binary file into string  use `string` 
+for example : `string /ect/bin/ls`
+`mem`
