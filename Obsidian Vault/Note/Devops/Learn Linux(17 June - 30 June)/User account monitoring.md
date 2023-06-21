@@ -13,3 +13,5 @@ using ssh I can control another terminal
 learn about creating group, add user, remove user, where there information is located.
 
 
+
+
