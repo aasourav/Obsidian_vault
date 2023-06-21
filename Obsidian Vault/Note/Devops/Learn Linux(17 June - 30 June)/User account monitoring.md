@@ -9,8 +9,3 @@ info is saved
 `open ssh server`
 using ssh I can control another terminal
 
-hi souravs
-new added
-hjkjhkjh
-hjkhkj
-
