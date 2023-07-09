@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BugFix/2023-06-22.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BugFix/2023-06-22.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BugFix/2023-06-22.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BugFix/2023-06-22.md"
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md"
               }
             }
           }
@@ -158,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e17dec9097f01f7",
+  "active": "9359ee8f4ef79dd9",
   "lastOpenFiles": [
-    "Note/Devops/Learn Linux(17 June - 30 June)/FilePermission.md",
     "BugFix/2023-06-22.md",
+    "Note/Devops/Learn Linux(17 June - 30 June)/FilePermission.md",
     "BugFix/Untitled.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",

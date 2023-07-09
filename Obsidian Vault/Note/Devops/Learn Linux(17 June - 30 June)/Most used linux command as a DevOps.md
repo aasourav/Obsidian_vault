@@ -98,4 +98,4 @@
 - `nmon`: Monitor system performance.
 - `dmesg`: Print or control the kernel ring buffer.
 - `ethtool`: Query or control network device settings.
-- [ ] `locate` : find file name or file path.
+- `locate` : find file name or file path.
