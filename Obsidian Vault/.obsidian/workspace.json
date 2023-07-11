@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
+                "file": "Note/Devops/Networking/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
+                "file": "Note/Devops/Networking/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
+                "file": "Note/Devops/Networking/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md"
+                "file": "Note/Devops/Networking/Basics.md"
               }
             }
           }
@@ -160,10 +160,13 @@
   },
   "active": "9359ee8f4ef79dd9",
   "lastOpenFiles": [
+    "Pasted image 20230711105114.png",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
+    "Note/Devops/Networking/Basics.md",
+    "Note/Devops/Networking",
     "BugFix/2023-06-22.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/FilePermission.md",
     "BugFix/Untitled.md",
-    "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/User account monitoring.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Resources Links.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
@@ -194,11 +197,8 @@
     "BugFix/2023-05-25.md",
     "Note/shell programming",
     "BugFix/2023-05-24.md",
-    "ToDo/2023-05-10.md",
     "Note/What I learned from Headless",
     "BugFix",
-    "ToDo/2023-05-9.md",
-    "Note/Learn MERN like a pro",
-    "Note"
+    "Note/Learn MERN like a pro"
   ]
 }
