@@ -11,9 +11,11 @@
             "id": "9359ee8f4ef79dd9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230617232312.png"
+                "file": "2023-07-24.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230617232312.png",
+                "file": "2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230617232312.png",
+                "file": "2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230617232312.png"
+                "file": "2023-07-24.md"
               }
             }
           }
@@ -156,8 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e17dec9097f01f7",
+  "active": "9359ee8f4ef79dd9",
   "lastOpenFiles": [
+    "Pasted image 20230724105643.png",
+    "Pasted image 20230724105533.png",
+    "Pasted image 20230724105346.png",
+    "Pasted image 20230617232312.png",
+    "2023-07-24.md",
     "Untitled",
     "Pasted image 20230711112844.png",
     "Note/Devops/Networking/Basics.md",
@@ -177,7 +184,6 @@
     "Note/Devops/Road map for devOps.md",
     "Pasted image 20230618213634.png",
     "Pasted image 20230617234027.png",
-    "Pasted image 20230617232312.png",
     "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)",
     "Note/Devops/Learn Linux(17 June - 30 June)",
     "BugFix/2023-06-15.md",
@@ -198,9 +204,7 @@
     "Note/learn linux",
     "BugFix/2023-05-25.md",
     "Note/shell programming",
-    "BugFix/2023-05-24.md",
     "Note/What I learned from Headless",
-    "BugFix",
-    "Note/Learn MERN like a pro"
+    "BugFix"
   ]
 }
