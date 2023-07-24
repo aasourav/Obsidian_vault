@@ -1,7 +1,7 @@
 - [?] Version control (git)
 - [ ]  Linux (Deadline -> June 17 - June 30)
-	- [ ] Learn Linux
-	- [ ] Shell scripting
+	- [x] Learn Linux
+	- [x] Shell scripting
 1. **Basics of Networking**:
     - [ ] TCP/IP protocol suite
     - [ ] IP addressing (IPv4 and IPv6)
