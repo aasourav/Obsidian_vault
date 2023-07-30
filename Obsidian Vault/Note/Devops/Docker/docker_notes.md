@@ -59,6 +59,10 @@ docker container inspect
 docker container stats
 
 
+// Getting a shell inside containers
+
+docker container run -it => start new container interactively
+docker container exec -it => run that already running comman
 
 
 
