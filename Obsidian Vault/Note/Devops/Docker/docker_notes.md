@@ -49,6 +49,15 @@ or just add `f` then it will remove running and stopped both.
 
 
 
+//process list in one container
+docker container top
+
+//details of one container config
+docker container inspect
+
+//performance stats fo
+
+
 
 
 
