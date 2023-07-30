@@ -61,8 +61,8 @@ docker container stats
 
 // Getting a shell inside containers
 
-docker container run -it => start new container interactively
-docker container exec -it => run that already running comman
+docker container run -it => start new container width bash interactively
+docker container exec -it => run that already running container.
 
 
 
