@@ -64,6 +64,8 @@ docker container stats
 docker container run -it => start new container width bash interactively
 docker container exec -it => run that already running container.
 
+12931/-
+
 
 
 
