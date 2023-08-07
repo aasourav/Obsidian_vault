@@ -20,18 +20,15 @@
             }
           },
           {
-            "id": "f06de2e05dd761cd",
+            "id": "1cf7045136640eaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Devops/Docker/docker_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Devops/Docker/docker_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Note/Devops/Docker/docker_notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,23 +151,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e17dec9097f01f7",
+  "active": "1cf7045136640eaf",
   "lastOpenFiles": [
-    "Note/Devops/Road map for devOps.md",
+    "Untitled.md",
+    "Pasted image 20230807120816.png",
+    "Note/Devops/Networking/Basics.md",
     "Note/Devops/Docker/docker_notes.md",
+    "2023-07-24.md",
+    "Note/shell programming/Shell Programming.md",
+    "-.md",
+    "Pasted image 20230807120600.png",
+    "Pasted image 20230711105114.png",
+    "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
+    "Note/Devops/Road map for devOps.md",
     "Note/Devops/Docker",
     "Pasted image 20230724105643.png",
-    "2023-07-24.md",
     "Pasted image 20230724105533.png",
     "Pasted image 20230724105346.png",
     "Pasted image 20230617232312.png",
     "Untitled",
     "Pasted image 20230711112844.png",
-    "Note/Devops/Networking/Basics.md",
     "Pasted image 20230711112443.png",
     "Pasted image 20230711111807.png",
-    "Pasted image 20230711105114.png",
-    "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
     "Note/Devops/Networking",
     "BugFix/2023-06-22.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/FilePermission.md",
@@ -184,8 +182,6 @@
     "Note/Devops/Learn Linux(17 June - 30 June)/Introduction to terminal and it's shortcut.md",
     "Note/Devops/Learn Linux(17 June - 30 June)/Untitled",
     "Note/Devops/Learn Linux(17 June - 30 June)/Linux file system.md",
-    "Pasted image 20230618213634.png",
-    "Pasted image 20230617234027.png",
     "Note/Devops/Learn Linux(17 June - 30 June)/Day 1 (17 June)",
     "Note/Devops/Learn Linux(17 June - 30 June)",
     "BugFix/2023-06-15.md",
@@ -199,12 +195,8 @@
     "Note/What I learned from Headless/Untitled.md",
     "ToDo/2023-05-11.md",
     "BugFix/2023-05-30.md",
-    "Note/What I learned from Headless/2023-05-31.md",
-    "Note/shell programming/Shell Programming.md",
     "Untitled.canvas",
-    "Note/learn linux/Linux.md",
     "Note/learn linux",
-    "BugFix/2023-05-25.md",
     "Note/shell programming",
     "Note/What I learned from Headless"
   ]

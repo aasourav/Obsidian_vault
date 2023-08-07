@@ -1,0 +1,6 @@
+- All notes e click korle kaj kore na. home e thakle kaj kore. but note list er vitore theke click korle kaj kore na
+- Image Uload hosse na
+- ![[Pasted image 20230807120816.png | 300]]
+- image na thakle avatar diye rakhle valo hoto. 
+- 
+- 
