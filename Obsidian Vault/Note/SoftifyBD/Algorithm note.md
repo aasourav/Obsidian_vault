@@ -47,5 +47,8 @@ sort(v.begin(), v.end());
 reverse(v.begin(), v.end());
 sort(a, a+n); 
 reverse(a, a+n);
-
+*max_element(vc.begin(),vc.end());
+*min_element(vc.begin(),vc.end());
+accumulate(vc.begin(),vc.end());
+binary_search(vc.begin(),vc.end())
 ```
