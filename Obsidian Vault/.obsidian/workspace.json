@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/SoftifyBD/Prev Problem solved.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/SoftifyBD/Prev Problem solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/SoftifyBD/Prev Problem solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md"
+                "file": "Note/SoftifyBD/Prev Problem solved.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "1cf7045136640eaf",
   "lastOpenFiles": [
-    "Note/Styling/Antd.md",
     "Note/SoftifyBD/Algorithm note.md",
+    "Note/SoftifyBD/Prev Problem solved.md",
+    "Note/Styling/Antd.md",
     "Note/SoftifyBD",
     "Note/Devops/Docker/docker_notes.md",
     "Note/Styling",
@@ -204,7 +205,6 @@
     "Note/What I learned from Headless/2023-06-05.md",
     "New project issues..md",
     "Note/What I learned from Headless/Untitled.md",
-    "ToDo/2023-05-11.md",
     "Untitled.canvas",
     "Note/learn linux",
     "Note/shell programming"
