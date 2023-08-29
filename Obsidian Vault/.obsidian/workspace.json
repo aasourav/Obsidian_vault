@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/MockInterviewQuestion/Nodejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/MockInterviewQuestion/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/MockInterviewQuestion/Nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md"
+                "file": "Note/MockInterviewQuestion/Nodejs.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "1cf7045136640eaf",
   "lastOpenFiles": [
+    "Note/SoftifyBD/Algorithm note.md",
+    "Note/MockInterviewQuestion/Nodejs.md",
+    "Note/MockInterviewQuestion",
     "Note/SoftifyBD/Prev Problem solved.md",
     "Note/Devops/Docker/docker_notes.md",
-    "Note/SoftifyBD/Algorithm note.md",
     "Note/Styling/Antd.md",
     "Note/SoftifyBD",
     "Note/Styling",
@@ -204,9 +206,7 @@
     "BugFix/2023-06-13.md",
     "Note/What I learned from Headless/2023-06-05.md",
     "New project issues..md",
-    "Note/What I learned from Headless/Untitled.md",
     "Untitled.canvas",
-    "Note/learn linux",
-    "Note/shell programming"
+    "Note/learn linux"
   ]
 }
