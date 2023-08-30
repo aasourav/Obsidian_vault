@@ -35,6 +35,9 @@ s.push(2);
 s.top();
 s.pop();
 
+//string
+string.substr()
+
 //queue
 queue<int>q;
 q.push();

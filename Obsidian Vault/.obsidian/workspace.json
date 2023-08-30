@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/MockInterviewQuestion/Nodejs.md",
+                "file": "Note/SoftifyBD/Algorithm note.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/MockInterviewQuestion/Nodejs.md",
+                "file": "Note/SoftifyBD/Algorithm note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/MockInterviewQuestion/Nodejs.md",
+                "file": "Note/SoftifyBD/Algorithm note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/MockInterviewQuestion/Nodejs.md"
+                "file": "Note/SoftifyBD/Algorithm note.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "1cf7045136640eaf",
   "lastOpenFiles": [
-    "Note/SoftifyBD/Algorithm note.md",
     "Note/MockInterviewQuestion/Nodejs.md",
+    "Note/SoftifyBD/Algorithm note.md",
     "Note/MockInterviewQuestion",
     "Note/SoftifyBD/Prev Problem solved.md",
     "Note/Devops/Docker/docker_notes.md",
