@@ -37,6 +37,9 @@ s.pop();
 
 //string
 string.substr()
+- `find()` – Search for a substring/character.
+- `rfind()` – Search backward for a substring/character.
+
 
 //queue
 queue<int>q;
