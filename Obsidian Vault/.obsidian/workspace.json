@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md",
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/SoftifyBD/Algorithm note.md"
+                "file": "Note/Devops/Learn Linux(17 June - 30 June)/Most used linux command as a DevOps.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "1cf7045136640eaf",
   "lastOpenFiles": [
-    "Note/SoftifyBD/Prev Problem solved.md",
+    "Note/learn linux/Linux.md",
     "Note/SoftifyBD/Algorithm note.md",
+    "Note/SoftifyBD/Prev Problem solved.md",
     "Note/MockInterviewQuestion/Nodejs.md",
     "Note/MockInterviewQuestion",
     "Note/Devops/Docker/docker_notes.md",
@@ -215,7 +216,6 @@
     "BugFix/2023-05-29.md",
     "BugFix/2023-06-13.md",
     "Note/What I learned from Headless/2023-06-05.md",
-    "New project issues..md",
     "Untitled.canvas",
     "Note/learn linux"
   ]
