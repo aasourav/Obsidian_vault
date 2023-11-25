@@ -1,36 +1,10 @@
-Certainly! Here’s a table for **Obsidian Note** based on the information from the image:
+## `What is process?`
+  - Is a running instance of a programm.
+  - When you open an application or run a command in the terminal, it becomes a process. Each process has its own unique ID called a PID (Process ID).
+##  `What is daemon?`
+* In Linux, daemons are background processes that run without direct user interaction and perform specific tasks or services. They're often initiated during the system boot and continue to run until the system is shut down.
 
-|**Shortcut**|**Result**|
-|---|---|
-|`cd`|Changes the working directory to your home directory.|
-|`cd -`|Changes the working directory to the previous working directory.|
-|`cd ~user_name`|Changes the working directory to the home directory of `user_name`. For example, typing `cd "~bob"` will change the directory to the home directory of user “bob”.|
 
-# `ls` most used options
-|**Short Option**|**Long Option**|**Description**|
-|---|---|---|
-|-a|--all|List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|
-|-A|--almost-all|Like the -a option except it does not list . (current directory) and .. (parent directory).|
-|-d|--directory|Ordinarily, if a directory is specified, ls will list the contents of the directory, not the directory itself. Use this option in conjunction with the -l option to see details about the directory rather than its contents.|
-|-F|--classify| This option will append an indicator character to the end of each listed name. For example, it will append a forward slash (/) if the name is a directory.|
-|-h|--human-readable|long format listings, display file sizes in human readable format rather than in bytes.|
-|-l||Display results in long format.|
-|-r|--reverse|display the results in reverse order. Normally, ls displays its results in ascending alphabetical order.|
-|-S||Sort results by file size.|
-|-t||Sort by modification time.|
+## `What is cgroup?`
+*   Control Groups (cgroups) in Linux are a kernel feature that allows you to allocate resources—such as CPU, memory, disk I/O, and network bandwidth—among processes or groups of processes.
 
-## `ls -l` format
-|***Field***|***Meaning***|
-|---|---|
-|-rw-r--r-|Access rights to the file. The first character indicates the type of file. Among the different types, a leading dash means a regular file, while a d indicates a directory. The next three characters are the access rights for the file’s owner, the next three are for members of the file’s group, and the final three are for everyone else. Chapter 9 discusses the full meaning of this in more detail|
-|1|File’s number of hard links. See “Symbolic Links” on page 21 and “Hard Links” on page 22.|
-|root|the username of file owner|
-|root|the name of the group that owns the file|
-|32059| Size of the file in bytes|
-|2017-04-03 11:05| Date and time of the files' last modification|
-|00-cd-cover.odf| Name of the file|
-
-#### another common command
-|***Command***|***what it do***|
-|---|----|
-|less file_name| show file name less|
